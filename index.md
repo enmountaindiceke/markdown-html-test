@@ -52,3 +52,12 @@ images/sample.png
 ```
 
 ![テスト](images/sample.png)
+
+
+---
+
+## 5. YouTube動画埋め込みテスト
+
+以下は YouTube 動画の埋め込み例です。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uMKUdttLHUY?si=JXoP3o03thSUaJY_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
